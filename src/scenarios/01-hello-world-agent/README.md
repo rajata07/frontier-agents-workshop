@@ -1,5 +1,7 @@
 ### Scenario 1 - Your First Time & Weather Agent
 
+**📖 [View the Comprehensive Solution Guide](./SOLUTION_GUIDE.md)** - Detailed explanations of all three solution approaches with code examples, architecture diagrams, and troubleshooting tips.
+
 Goal: In this scenario you will build your very first agent using the Microsoft Agent Framework that can answer questions about the current time and expected weather for the user’s location. You will learn how to define an agent, connect simple tools (functions) to it, and how those tools are invoked through function calling. You will also practice using an MCP server to look up user-related information and a separate MCP server to provide weather information. A key focus is to see how conversational state is maintained across multiple turns so the agent can remember details like where the user is. This scenario is relevant because most real-world agents combine memory, tools, and external services rather than just answering a single prompt.
 
 Task:
