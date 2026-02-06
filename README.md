@@ -105,7 +105,7 @@ You do not have to use **[Spec Kit](https://speckit.org/)** for this workshop bu
 
 1. **Scenario 1 – learning how to build your first agent**  
    Learn how to define a basic agent, connect tools, and use the Agent Framework Dev UI to inspect activities, metrics, and traces while the agent answers time and weather questions and maintains conversational memory.  
-   See [Scenario 1 README](src/scenarios/01-hello-world-agent/README.md).
+   📖 **Documentation**: [README](src/scenarios/01-hello-world-agent/README.md) | [Solution Guide](src/scenarios/01-hello-world-agent/SOLUTION_GUIDE.md) | [Quick Reference](src/scenarios/01-hello-world-agent/QUICK_REFERENCE.md)
 
 2. **Scenario 2 – building a user interface for your agent**  
    Build a console-based client that talks to your agent over the AG-UI protocol, so you can send user input and receive agent responses without building a full web UI.  
